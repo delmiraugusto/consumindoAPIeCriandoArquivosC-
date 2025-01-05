@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|c:\\users\\augusto\\documents\\alura\\c#\\screensound04\\screensound04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|solutionrelative:screensound04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|c:\\users\\augusto\\documents\\alura\\c#\\screensound04\\screensound04\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|solutionrelative:screensound04\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|c:\\users\\augusto\\documents\\alura\\c#\\screensound04\\screensound04\\model\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|solutionrelative:screensound04\\model\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|c:\\users\\augusto\\documents\\alura\\c#\\screensound04\\screensound04\\model\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|solutionrelative:screensound04\\model\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|c:\\users\\augusto\\documents\\alura\\c#\\screensound04\\screensound04\\filtros\\linkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0B3841-4D85-4C04-9853-E4C3D4D608CE}|ScreenSound04\\ScreenSound04.csproj|solutionrelative:screensound04\\filtros\\linkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Model\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "ScreenSound04\\Model\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Model\\MusicasPreferidas.cs",
+              "RelativeToolTip": "ScreenSound04\\Model\\MusicasPreferidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:16:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Model\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound04\\Model\\Musica.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Model\\Musica.cs",
+              "RelativeToolTip": "ScreenSound04\\Model\\Musica.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:03:07.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Filtros\\LinkOrder.cs",
+              "RelativeDocumentMoniker": "ScreenSound04\\Filtros\\LinkOrder.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Filtros\\LinkOrder.cs",
+              "RelativeToolTip": "ScreenSound04\\Filtros\\LinkOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:56:45.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "ScreenSound04\\Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Filtros\\LinqFilter.cs",
+              "RelativeToolTip": "ScreenSound04\\Filtros\\LinqFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:46:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound04\\Program.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\alura\\C#\\ScreenSound04\\ScreenSound04\\Program.cs",
+              "RelativeToolTip": "ScreenSound04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:33:45.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

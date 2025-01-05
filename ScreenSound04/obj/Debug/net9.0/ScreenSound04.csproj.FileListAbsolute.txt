@@ -1,0 +1,14 @@
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\bin\Debug\net9.0\ScreenSound04.exe
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\bin\Debug\net9.0\ScreenSound04.deps.json
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\bin\Debug\net9.0\ScreenSound04.runtimeconfig.json
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\bin\Debug\net9.0\ScreenSound04.dll
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\bin\Debug\net9.0\ScreenSound04.pdb
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.AssemblyInfoInputs.cache
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.AssemblyInfo.cs
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.dll
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\refint\ScreenSound04.dll
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.pdb
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ScreenSound04.genruntimeconfig.cache
+C:\Users\Augusto\Documents\alura\C#\ScreenSound04\ScreenSound04\obj\Debug\net9.0\ref\ScreenSound04.dll
